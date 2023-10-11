@@ -1,5 +1,5 @@
 # Pizza-Party
-<img src='[https://github.com/PoorneshShiva/Pizza-Party/image/saahil-khatkhate-kfDsMDyX1K0-unsplash.jpg](https://github.com/PoorneshShiva/Pizza-Party/blob/main/image/saahil-khatkhate-kfDsMDyX1K0-unsplash.jpg)'  />
+<img src='image/pizza.jpg'  />
 
 **Note: Ingredients MUST be added in the following order**
 
