@@ -1,5 +1,5 @@
 # Pizza-Party
-<img src='https://github.com/PoorneshShiva/Pizza-Party/image/' width=50% heght=50% />
+<img src='https://github.com/PoorneshShiva/Pizza-Party/image/saahil-khatkhate-kfDsMDyX1K0-unsplash.jpg' width=50% heght=50% />
 #Project Description
 #how to Install and run
 
